@@ -1,5 +1,3 @@
-# 🚢 Petição Pública: Mais Barcos e um Melhor Serviço para os Cidadãos do Montijo e Alcochete
-
 O transporte fluvial é essencial para milhares de habitantes do Montijo e Alcochete que dependem diariamente dos barcos para trabalhar, estudar e circular pela região.  
 Mas o serviço atual **não responde às necessidades**:
 
